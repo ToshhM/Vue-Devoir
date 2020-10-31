@@ -1,0 +1,41 @@
+{
+    "name": "Matière",
+    "cours": [
+      {
+        
+        "name": "Mathématique",
+        "heure": "5h",
+        "professeur": "Kadour",
+        "salle": "E211",
+        "disponible": "present"
+      },
+      {
+        "name": "Français",
+        "heure": "4h",
+        "professeur": "Sisika",
+        "salle": "E208",
+        "disponible": "present"
+      },
+      {
+        "name": "PC",
+        "heure": "7h",
+        "professeur": "PostMalone",
+        "salle": "L201",
+        "disponible": "present"
+      },
+      {
+        "name": "Python",
+        "heure": "4h",
+        "professeur": "Kendrick",
+        "salle": "L502",
+        "disponible": "present"
+      },
+      {
+        "name": "Softskill",
+        "heure": "3h",
+        "professeur": "Lefa",
+        "salle": "Learning-Center",
+        "disponible": "absent"
+      }
+    ]
+  }
